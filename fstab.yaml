@@ -1,0 +1,7 @@
+mountpoints:
+  /:
+    url: https://content.da.live/nrkapoor/live-demo-may/
+    type: markup
+
+folders:
+  /products/: /products/default
